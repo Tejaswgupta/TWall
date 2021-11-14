@@ -29,8 +29,6 @@ List<String> apiKeyList = [
  
  
 
-
-
 ## You can browse images from various sources like :
 
  - <a href="https://www.pexels.com/">Pexels</a>
@@ -45,22 +43,4 @@ List<String> apiKeyList = [
  - Search images using search tags.
  - Get information about the photographer and navigate to the image url.
  
- 
- <br><br>
- ## Download the apk from this Google Drive link
- https://drive.google.com/open?id=1TtTHIc-igIvYS70qhB3WoHyHlY7UsOaw
- 
- - It contains two apk files, please try the app-release.apk file
- <br><br>
- 
- 
 
-    
-<p align="center">
-<a href="https://www.linkedin.com/in/shubham-kumar-42a3b9170">
-    <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
-</p>
-
-<p align= "center">
-If you like this work please star ⭐ the repository as it will motivate me to learn and make more of such apps.
-</p>
